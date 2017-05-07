@@ -58,6 +58,17 @@ s,i,em{font-style:normal;text-decoration:none;}
 
 /*<!--导航栏begin-->*/
 .header{background-color: #F1F1F1;height: 30px; line-height: 30px;}
+.fl .dt{padding: 0 25px 0 15px; position: relative;}
+.fl .dt>i{    position: absolute;
+    right: 6px;
+    top: 13px;
+    height: 15px;
+    width: 12px;
+    overflow: hidden;}
+.fl .dt>i>s{    position: absolute;
+    right: 0px;
+    top: -14px;}
+
 
 
 
